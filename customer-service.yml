@@ -1,0 +1,10 @@
+customer:
+  fixed-customers:
+    - name: Josh Long
+      id: 1
+    - name: Ryan Baxter
+      id: 2
+    - name: Phill Webb
+      id: 3
+    - name: Matt Raible
+      id: 4
