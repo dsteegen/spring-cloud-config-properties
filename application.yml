@@ -1,1 +1,7 @@
 message: Hello World from Netflix Stack!
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
